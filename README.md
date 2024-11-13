@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Yardello.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 👯 I’m looking to collaborate on anything new.
+- 🤔 I’m looking for help with hosting.
+
 
 <!--
 **add-beats/add-beats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
